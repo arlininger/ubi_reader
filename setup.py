@@ -5,7 +5,7 @@ from setuptools import setup,find_packages
 version = '0.4'
 
 setup(
-    name='ubi_reader',
+    name='ubireader',
     version=version,
     description='',
     author='Jason Pruitt',
